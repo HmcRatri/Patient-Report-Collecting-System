@@ -1,0 +1,18 @@
+.navbar-default .navbar-nav,.navbar-default .navbar-brand{
+	margin-top: 40px;
+}
+.navbar-default .navbar-nav li a{
+	font-size: 14px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.navbar-default .dropdown:hover .dropdown-menu{
+	display: block;
+}
+.form-horizontal button{
+	margin-left:-35px;
+	color:#fff;
+}
+#report,#report2,#report3{
+	display: none;
+}
